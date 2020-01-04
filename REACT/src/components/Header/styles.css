@@ -1,0 +1,11 @@
+#main-header{
+    height: 180px;
+    background-color: black;
+    width: 100%;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(211, 14, 195);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
