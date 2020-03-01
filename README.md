@@ -1,7 +1,7 @@
 <div align="center">
 	<h1>
-	<a href = "https://github.com/mffdsp/DOGDGE-P4">
-	 DOGDGE - GAME
+	<a href = "https://github.com/mffdsp/site-katie">
+	 Site - Katie
 	</a> 
 	</h1>
 </div>
