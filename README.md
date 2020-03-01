@@ -6,7 +6,7 @@
 	</h1>
 </div>
 <div align="center">
-	<a href="//www.google.com"><img style="width:100;" src="resources/img/KATIE.png" class="media-object img-responsive img-thumbnail"></a>
+	<a href="//www.google.com"><img width="640px" src="resources/img/KATIE.png"></a>
 <br>
 </div>
 
