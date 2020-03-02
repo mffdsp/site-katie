@@ -12,7 +12,7 @@
 
 <p align="center">
 	<a href="https://sites.google.com/u/0/s/1UZgxTVBrLxJYyQ9kfKSX2v95Bblq0m2Q/p/1L-r-tQ0We_ZcxukfhNN4ZCbPuiZl2kYl/edit?authuser=0&usp=edit_published_site">Acesso</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://github.com/mffdsp/site-katie/tree/master/resources/img">Arquivos</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/mffdsp/site-katie/tree/master/resources/">Arquivos</a>&nbsp;&nbsp;&nbsp;
 	<a href="mailto:hgms@ic.ufal.br" >hgms@ic.ufal.br</a>&nbsp;&nbsp;&nbsp;
 	<a href="mailto:mffsp@ic.ufal.br" >mffsp@ic.ufal.br</a>&nbsp;&nbsp;&nbsp;
 	
