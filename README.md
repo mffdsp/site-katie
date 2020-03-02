@@ -6,7 +6,7 @@
 	</h1>
 </div>
 <div align="center">
-	<a href="//www.google.com"><img width="640px" src="resources/img/KATIE.png"></a>
+	<a href="https://sites.google.com/ic.ufal.br/katie/"><img width="640px" src="resources/img/KATIE.png"></a>
 <br>
 </div>
 
