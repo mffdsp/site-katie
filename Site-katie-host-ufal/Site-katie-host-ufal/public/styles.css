@@ -1,0 +1,134 @@
+body{
+    background-color: white;
+}
+a{
+    text-decoration:none;
+}
+
+#menuButtonToKnow{
+    background-color: rgb(6, 5, 4);
+     color: white;
+     /*border-radius: 35%;*/
+     display: block;
+     width:35%;
+     border-color: white;
+     border: 0.1vw solid;
+     margin-left: auto;
+     margin-right: auto;
+     border-width: 50%;
+     font-size: 1vw;
+     padding: 0.5vw;
+     text-decoration: none;
+     cursor: pointer;
+     font-weight:bold;
+     
+ }
+ #menuButtonToKnow:hover{
+     color: #f8049c;
+     background-color: rgb(6, 5, 4);
+     border-color: #f8049c;
+     padding: 0.2vw;
+     border: 0.4vw solid;
+ }
+
+header{
+    background-color: rgb(6, 5, 4);
+    height: 400px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+header img{
+    width: 20%;
+ 
+}
+header h1{
+    position: relative;
+    color: white;
+    text-align: center;
+    font-size: large;
+}
+nav{
+    background-color: rgb(6, 5, 4);
+    position: relative;
+    text-align: center;
+    align-items: center;
+
+    
+}
+nav button{
+    display: inline-block;
+    width: 150px;   
+    background-color: rgb(6, 5, 4);
+    color: white;
+    margin: 1em;
+    border: none;
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: rgb(248, 4, 156);
+    cursor: pointer;
+
+
+}
+nav button:hover{
+    border: solid;
+    border-color: rgb(248, 4, 156);
+    border-width: 1px; 
+    color: rgb(248, 4, 156);
+ 
+}
+
+line{
+    display: block;
+    width: 100%;
+    height: 10px;
+    background-color: yellow;
+}
+
+.katie-posts img{
+    width: 30%;
+    
+}
+
+@media (max-width: 750px) {
+    header{
+        display: table-cell;
+        align-items: center;
+        margin: 0 auto;
+        text-align: center;
+        vertical-align: middle;
+        font-size: medium;
+    }
+    header div{
+        font-size: small;
+        margin: 0 auto;
+        vertical-align: middle;
+        width: 200px;
+    }
+    header img{
+        width: 30%;
+    }
+    #menuButtonToKnow{
+        font-size: 4vw;
+        width: 100%;
+    }
+
+    .navdiv{
+        flex-direction: column;
+        margin: 0 auto;
+
+    }
+
+
+    nav button{
+        margin: 0.5em 0;
+        width: 60%;
+    }
+  }
+@media (max-width: 1550px) {
+    nav input{
+        margin-left: 0;
+        
+    }
+}

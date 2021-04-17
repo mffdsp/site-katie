@@ -1,0 +1,51 @@
+
+<body>
+
+   
+
+</body>
+
+<script type="text/javascript">
+    if (typeof window.orientation !== 'undefined') {
+
+        document.querySelector("html").style.textAlign = "center";
+		let hr = document.createElement("hr");
+        
+        let postElement = document.querySelector(".blog-post");
+   		postElement.appendChild(hr);
+        postElement.style.flexDirection = "column"; 
+        postElement.style.boxShadow = "none";
+        postElement.style.display = "block";
+        postElement.style.alignContent = "center";
+        postElement.style.textAlign = "center";
+ 		    		
+        
+       let imgElement = document.querySelector(".blog-post__img");
+        imgElement.style.marginTop = "1vw";
+        imgElement.style.transform = "none";
+        imgElement.style.display = "block";
+        imgElement.style.marginLeft = "auto";
+        imgElement.style.marginRight = "auto";
+        imgElement.style.minWidth = "60vw";
+        imgElement.style.maxWidth = "60vw";
+        imgElement.style.width = "100%";
+
+        document.querySelector(".blog-post").textAlign = "center";
+
+        //font
+        document.querySelector(".blog-post__date").remove();
+        document.querySelector(".blog-post__text").remove();
+        
+        let linkElement = document.querySelector(".blog-post__cta");
+        linkElement.text = "Acesse";
+        linkElement.style.fontSize = "3vw";
+        linkElement.style.marginBottom = "1vw";
+
+        console.log("Mobile");
+        
+    }else {
+        console.log("PC");
+    }
+
+</script>
+</html> 
